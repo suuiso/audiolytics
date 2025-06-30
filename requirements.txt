@@ -1,4 +1,4 @@
-SpeechRecognition==3.8.1
+SpeechRecognition==3.9.0
 tqdm==4.60.0
 matplotlib==3.4.1
 pandas==1.2.4
